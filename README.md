@@ -1,0 +1,2 @@
+# LFSR
+Linear Feedback Shift Register  Introduction: -  What is LFSR?  - The LFSR is a shift register that has some of its outputs together in exclusive-OR or exclusive-NOR configurations to form a feedback path. - The initial content of the shift register is referred to as seed. (Note: any value can be a seed except all 0’s to avoid lookup state). - Lookup state is the state in which shift register values are zeros all the time while shifting and xoring). - Feedbacks can be comprising of XOR gates or XNOR gates
